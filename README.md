@@ -1,6 +1,8 @@
 # language_translator
 
-A new Flutter project.
+A Translator app build by using flutter with interactive ui.
+using this app one can translate almost all popular language to other one in real time.
+happy to recieve suggestion, if any.
 
 ## Getting Started
 
